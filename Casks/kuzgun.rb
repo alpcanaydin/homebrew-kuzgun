@@ -1,6 +1,6 @@
 cask "kuzgun" do
-  version "0.1.0"
-  sha256 "b29e81daba9c956774eee04254b3c78d3fd335f7083bf010a43a835de8a29f24"
+  version "0.2.0"
+  sha256 "a60f25dec074d22e28bb3f5da1fdc1679304c5eebca7cca8d133dd0356f33457"
 
   url "https://github.com/alpcanaydin/kuzgun/releases/download/v#{version}/Kuzgun-#{version}-arm64.dmg"
   name "Kuzgun"
